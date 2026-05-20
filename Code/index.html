@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>MH2 Solar System</title>
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+body{overflow:hidden;background:#000;font-family:Arial;}
+canvas{display:block;}
+
+#info{
+position:fixed;
+top:20px;
+left:20px;
+z-index:100;
+color:white;
+padding:15px 20px;
+border-radius:20px;
+background:rgba(0,0,0,0.5);
+border:1px solid rgba(255,255,255,0.1);
+backdrop-filter:blur(10px);
+}
+
+#info h1{color:#00ffff;margin-bottom:10px;}
+#info p{color:#aaa;line-height:1.7;}
+</style>
+</head>
+
+<body>
+
+<div id="info">
+<h1>MH2 HRIDOY</h1>
+<p>
+W A S D = Move<br>
+Mouse Drag = Look Around<br>
+Arrow Up/Down = Fly<br>
+Arrow Left/Right = Rotate<br>
+1 / 4 = Camera Pitch
+</p>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.134/examples/js/loaders/FontLoader.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.134/examples/js/geometries/TextGeometry.js"></script>
+
+<script src="f.js"></script>
+
+</body>
+</html>
