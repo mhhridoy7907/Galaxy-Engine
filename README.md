@@ -46,7 +46,7 @@ A realistic real-time 3D Solar System and Space Simulation built using Three.js 
 ## 📂 Project Structure
 
 ```bash
-MH2-Galaxy-Engine/
+Code/
 │
 ├── index.html
 ├── im/
