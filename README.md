@@ -9,9 +9,9 @@
 
 **An immersive 3D interactive visualization of our solar system with realistic planet models, orbital mechanics, and stunning visual effects.**
 
-### 🌐 **[🚀 LIVE DEMO - mh2universe.web.app](https://mh2universe.web.app/)**
+### 🌐 **[🚀 LIVE - mh2universe.web.app](https://mh2universe.web.app/)**
 
-[🌐 Live Demo](https://mh2universe.web.app/) • [Controls](#-controls) • [Technologies](#-technologies-used) • [Contributing](#-contributing)
+[🌐 Live ](https://mh2universe.web.app/) • [Controls](#-controls) • [Technologies](#-technologies-used) • [Contributing](#-contributing)
 
 </div>
 
