@@ -312,9 +312,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact & Support
 
-- 💬 Create an [Issue](https://github.com/yourusername/mh2-solar-system/issues) for bug reports
-- 💡 Use [Discussions](https://github.com/yourusername/mh2-solar-system/discussions) for ideas
-- 📧 Email: your-email@example.com
+
+- 📧 Email: mhhriody7907@gmail.com
 
 ---
 
