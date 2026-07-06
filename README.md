@@ -145,22 +145,25 @@ Simply open the link in your browser and start exploring the solar system immedi
 
 ```
 mh2-solar-system/
- |
- ├──code/   
-    ├── index.html             # Main application file
-    ├── README.md              # This file
-    ├── im/                    # Image assets directory (Planetary textures)
-    │   ├── SUN.jpg            # Sun surface texture (2K resolution)
-    │   ├── Mercury.jpg        # Mercury surface map
-    │   ├── venus.jpg          # Venus surface texture
-    │   ├── EE.jpg             # Earth surface map
-    │   ├── Moon.jpg           # Moon surface texture
-    │   ├── Mars.jpg           # Mars surface map
-    │   ├── Jupiter.jpg        # Jupiter gas giant texture
-    │   ├── Saturn.jpg         # Saturn surface texture
-    │   ├── uranus.jpg         # Uranus surface texture
-    │   └── neptune.jpg        # Neptune surface texture
-    └── LICENSE                # MIT License file
+│
+└── code/
+    ├── index.html            # Main application file
+    ├── script.js             # Main JavaScript (Three.js logic & animations)
+    ├── style.css             # Application stylesheet
+    ├── README.md             # Project documentation
+    ├── LICENSE               # MIT License
+    │
+    └── im/                   # Image assets (Planet textures)
+        ├── SUN.jpg           # Sun surface texture (2K)
+        ├── Mercury.jpg       # Mercury surface texture
+        ├── venus.jpg         # Venus surface texture
+        ├── EE.jpg            # Earth surface texture
+        ├── Moon.jpg          # Moon surface texture
+        ├── Mars.jpg          # Mars surface texture
+        ├── Jupiter.jpg       # Jupiter surface texture
+        ├── Saturn.jpg        # Saturn surface texture
+        ├── uranus.jpg        # Uranus surface texture
+        └── neptune.jpg       # Neptune surface texture
 ```
 
 **Asset Details:**
