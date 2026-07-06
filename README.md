@@ -83,7 +83,7 @@ Simply open the link in your browser and start exploring the solar system immedi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mh2-solar-system.git
+   git clone https://github.com/mhhridoy7907/Galaxy-Engine
    cd mh2-solar-system
    ```
 
